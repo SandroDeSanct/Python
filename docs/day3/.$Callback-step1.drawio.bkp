@@ -70,15 +70,6 @@
         <mxCell id="ksVN3YIteYbsZTkq5Tut-28" value="return Essen" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="690" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ksVN3YIteYbsZTkq5Tut-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;START&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;def bringEssen (essen)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;print(&quot;Hier ist ihr Essen&quot; + essen)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;def Bestellung (order, Callback)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;print (&quot;You ordered&quot; + order)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;bringEssen(order)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="650" width="195" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="ksVN3YIteYbsZTkq5Tut-34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="830" width="226" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ksVN3YIteYbsZTkq5Tut-35" value="Bestellung(&quot;Döner&quot;, Bestellung)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;END&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="64" y="860" width="180" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
